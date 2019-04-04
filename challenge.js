@@ -8,3 +8,4 @@ while(a<12)
     console.log(a);
 }
 console.log("sum is: "+sum);
+console.log("manpreet");
